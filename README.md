@@ -22,7 +22,7 @@ This project contains an ETL (Extract, Transform, Load) process implemented usin
   - _PostgresHook_: Allows connection to the PostgreSQL database.
 
   **Installation**
-    1. Ensure you have Python 3.x installed.
-    2. Install the required packages using pip:
+        1. Ensure you have Python 3.x installed.
+        2. Install the required packages using pip:
       pip install apache-airflow requests pandas beautifulsoup4
-    3. Set up your PostgreSQL database and create a connection with the ID _books_connection_
+        3. Set up your PostgreSQL database and create a connection with the ID _books_connection_
